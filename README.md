@@ -97,8 +97,6 @@ The Product Performance dashboard focuses on identifying:
 
 ## 📁 Project Structure
 
-# 📁 Project Structure
-
 ```text
 Pizza-Sales-Analysis/
 │
@@ -130,9 +128,8 @@ Pizza-Sales-Analysis/
 │
 └── tableau/
     └── Pizza_Sales_Dashboard.twbx
-```text
+```
 ---
-
 
 ## 🔑 Skills Demonstrated
 🗄️ Database & Data Ingestion
