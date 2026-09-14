@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Temporary files
+*.tmp
+*.log
+
+# Database files
+*.bak
+*.mdf
+*.ldf
+
+# Credentials / secrets
+.env
+*.env
+
+# Raw/local datasets
+data/pizza_sales_raw.csv
