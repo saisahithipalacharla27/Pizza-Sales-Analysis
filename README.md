@@ -97,6 +97,9 @@ The Product Performance dashboard focuses on identifying:
 
 ## 📁 Project Structure
 
+# 📁 Project Structure
+
+```text
 Pizza-Sales-Analysis/
 │
 ├── README.md
